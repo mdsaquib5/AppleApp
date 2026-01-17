@@ -22,7 +22,6 @@ const Navbar = () => {
                         </button>
                         <button>
                             <img src="/cart.svg" alt="Cart" />
-                            <span>text</span>
                         </button>
                     </div>
                 </nav>
